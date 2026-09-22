@@ -1,75 +1,127 @@
+<!-- ═══════════════════════════════ HEADER ═══════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E111A,50:002B7F,100:00D1FF&height=220&section=header&text=Jeremy%20Duarte&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20Backend%20Engineering&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Jeremy Duarte"/>
+
 <div align="center">
 
-# Jeremy Duarte
+<a href="https://github.com/JereDuarte">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=900&color=00D1FF&center=true&vCenter=true&width=620&lines=Java+%26+Spring+Boot+Backend+Engineer;React+%2B+Tailwind+Interfaces;Secure+APIs+with+Spring+Security+%2B+JWT;Cloud+%E2%80%A2+Docker+%E2%80%A2+Google+Cloud;Founder+%40+Corefex+Technologies" alt="Typing SVG"/>
+</a>
 
-### Full Stack Developer · Backend Engineering · Java & Spring Boot
-
-Computer Systems Engineer based in Costa Rica 🇨🇷 · Open to remote opportunities in LATAM
-
-<br/>
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/jeremy-duarte-72645a338/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://corefextech.com"><img src="https://img.shields.io/badge/Corefex_Technologies-0E111A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Corefex Technologies"/></a>
-<a href="mailto:YOUR_EMAIL_HERE"><img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://corefextech.com"><img src="https://img.shields.io/badge/Corefex_Technologies-0E111A?style=for-the-badge&logo=googlechrome&logoColor=00D1FF" alt="Corefex Technologies"/></a>
+<a href="mailto:jeremyduarte72@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<img src="https://img.shields.io/badge/Open_to-Remote_LATAM-6DB33F?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Open to Remote LATAM"/>
+
+<img src="https://komarev.com/ghpvc/?username=JereDuarte&color=00D1FF&style=flat-square&label=profile+views" alt="Profile views"/>
 
 </div>
 
 <br/>
 
-## About
+<!-- ═══════════════════════════════ WHOAMI ═══════════════════════════════ -->
 
-I'm a Computer Systems Engineer focused on **full stack development and backend engineering**, with a strong foundation in **Java and Spring Boot** and modern interfaces built with **React**.
+## `> whoami`
 
-I transform business requirements into practical, secure and user-friendly software — from relational database design and REST APIs to containerized deployments on the cloud. As **Founder & Developer at Corefex Technologies**, I build custom digital solutions for businesses end to end.
+```text
+     ██╗███████╗██████╗ ███████╗███╗   ███╗██╗   ██╗
+     ██║██╔════╝██╔══██╗██╔════╝████╗ ████║╚██╗ ██╔╝
+     ██║█████╗  ██████╔╝█████╗  ██╔████╔██║ ╚████╔╝
+██   ██║██╔══╝  ██╔══██╗██╔══╝  ██║╚██╔╝██║  ╚██╔╝
+╚█████╔╝███████╗██║  ██║███████╗██║ ╚═╝ ██║   ██║
+ ╚════╝ ╚══════╝╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝   ╚═╝
+
+   Computer Systems Engineer  ·  Costa Rica  ·  Full Stack & Backend
+```
+
+```java
+public class JeremyDuarte {
+
+    String   role      = "Full Stack Developer";
+    String   focus     = "Backend Engineering";
+    String   degree    = "Bachelor's in Computer Systems Engineering";
+    String   location  = "Costa Rica 🇨🇷";
+    String   company   = "Founder & Developer @ Corefex Technologies";
+
+    String[] backend   = { "Java", "Spring Boot", "Spring Security", "JWT" };
+    String[] frontend  = { "React", "Tailwind CSS", "JavaScript", "HTML", "CSS" };
+    String[] databases = { "MySQL", "PostgreSQL", "SQL Server", "Firebase" };
+    String[] cloudOps  = { "Google Cloud", "Docker", "Nginx", "Netlify" };
+    String[] interests = { "Cybersecurity", "Secure Software Development" };
+
+    boolean  openToRemoteLATAM = true;
+
+    public String mission() {
+        return "Transform business requirements into practical, "
+             + "secure and user-friendly software.";
+    }
+}
+```
 
 <br/>
 
-## Core Expertise
+<!-- ═══════════════════════════════ EXPERTISE ═══════════════════════════════ -->
+
+## ⚡ Core Expertise
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
+
+<img src="https://skillicons.dev/icons?i=spring" height="42"/>
 
 **Backend Engineering**
 
-REST APIs and business logic with Java and Spring Boot. Authentication and authorization with Spring Security and JWT.
+<sub>REST APIs and business logic with Java & Spring Boot. Auth with Spring Security + JWT.</sub>
 
 </td>
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
+
+<img src="https://skillicons.dev/icons?i=react" height="42"/>
 
 **Frontend Development**
 
-Responsive web applications with React and Tailwind CSS, focused on usability, performance and maintainability.
+<sub>Responsive apps with React & Tailwind, focused on usability, performance and maintainability.</sub>
 
 </td>
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
+
+<img src="https://skillicons.dev/icons?i=gcp" height="42"/>
 
 **Cloud & Deployment**
 
-Applications deployed and integrated with Google Cloud and Firebase. Dockerized services and production environments.
+<sub>Apps deployed and integrated with Google Cloud & Firebase. Dockerized production environments.</sub>
 
 </td>
 </tr>
 <tr>
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres" height="42"/>
 
 **Database Systems**
 
-Relational database design and integration with MySQL, PostgreSQL and SQL Server.
+<sub>Relational database design and integration with MySQL, PostgreSQL & SQL Server.</sub>
 
 </td>
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
+
+<h2>🔐</h2>
 
 **Secure Software**
 
-Access-control systems and security-aware development, backed by ISO/IEC 27001 training.
+<sub>Authentication, authorization and access-control systems built with security in mind.</sub>
 
 </td>
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
+
+<h2>🛠️</h2>
 
 **Business Solutions**
 
-Custom software designed around real business requirements, automation and long-term maintenance.
+<sub>Custom software designed around real business requirements, automation and support.</sub>
 
 </td>
 </tr>
@@ -77,60 +129,81 @@ Custom software designed around real business requirements, automation and long-
 
 <br/>
 
-## Tech Stack
+<!-- ═══════════════════════════════ STACK ═══════════════════════════════ -->
 
-| Area | Technologies |
-|:--|:--|
-| **Languages** | <img src="https://skillicons.dev/icons?i=java,javascript,html,css" height="40"/> |
-| **Frameworks** | <img src="https://skillicons.dev/icons?i=spring,react,tailwind" height="40"/> |
-| **Databases** | <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase" height="40"/> &nbsp; ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) |
-| **Cloud & DevOps** | <img src="https://skillicons.dev/icons?i=gcp,docker,nginx,netlify" height="40"/> |
-| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea" height="40"/> |
+## 🧰 Tech Stack
+
+<div align="center">
+
+<table>
+<tr><td align="right"><sub><b>LANGUAGES</b></sub></td><td><img src="https://skillicons.dev/icons?i=java,javascript,html,css" height="38"/></td></tr>
+<tr><td align="right"><sub><b>FRAMEWORKS</b></sub></td><td><img src="https://skillicons.dev/icons?i=spring,react,tailwind" height="38"/></td></tr>
+<tr><td align="right"><sub><b>DATABASES</b></sub></td><td><img src="https://skillicons.dev/icons?i=mysql,postgres,firebase" height="38"/> <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="38"/></td></tr>
+<tr><td align="right"><sub><b>CLOUD & DEVOPS</b></sub></td><td><img src="https://skillicons.dev/icons?i=gcp,docker,nginx,netlify" height="38"/></td></tr>
+<tr><td align="right"><sub><b>TOOLS</b></sub></td><td><img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea" height="38"/></td></tr>
+</table>
+
+</div>
 
 <br/>
 
-## Featured Projects
+<!-- ═══════════════════════════════ PROJECTS ═══════════════════════════════ -->
 
-### El Cafetín — Resource Optimization & Decision-Making Simulator
+## 🚀 Featured Projects
 
-A web-based simulator developed for **CEIPA University Foundation**. The platform allows users to work with business constraints and optimization models while generating results and reports.
+### ☕ El Cafetín
+**Resource optimization & decision-making simulator** — built for **CEIPA University Foundation**
+
+Users work with business constraints and optimization models while the platform generates results and reports.
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
+```text
+┌────────────────────┐        ┌────────────────────────┐        ┌───────────┐
+│  React + Tailwind  │──JWT──►│  Spring Boot REST API  │───────►│   MySQL   │
+│     (frontend)     │        │  + Spring Security     │        │           │
+└────────────────────┘        └──────────┬─────────────┘        └───────────┘
+                                         │
+                                         └──► Excel & PDF reports
+
+                              ╰──────── Docker: backend + database ─────────╯
+```
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-- Authentication and role-based access control
-- Resource optimization models
-- Excel and PDF report generation
-- Administration and user management
+🔐 Authentication & role-based access control<br/>
+📊 Resource optimization models<br/>
+📄 Excel & PDF report generation<br/>
+🛠️ Administration & user management
 
 </td>
 <td width="50%" valign="top">
 
-- Relational database architecture
-- Dockerized backend and database
-- Production deployment
+🗄️ Relational database architecture<br/>
+🐳 Dockerized backend & database<br/>
+🌐 Production deployment
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-### Corefex Technologies — Independent Software Development
+### 🌐 Corefex Technologies
+**Independent software development initiative** — custom digital solutions for businesses
 
-My independent initiative focused on custom digital solutions for businesses: websites, web applications, APIs and cloud-based systems tailored to specific requirements.
+Websites, web applications, APIs and cloud-based systems tailored to specific business requirements.
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -140,71 +213,92 @@ My independent initiative focused on custom digital solutions for businesses: we
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-- Custom websites
-- Web applications
-- REST APIs
-- Authentication and authorization
-
-</td>
-<td width="50%" valign="top">
-
-- Cloud applications
-- Business automation
-- Maintenance and technical support
-
-</td>
+<td align="center" width="25%">🌐<br/><sub><b>Custom Websites</b></sub></td>
+<td align="center" width="25%">⚛️<br/><sub><b>Web Applications</b></sub></td>
+<td align="center" width="25%">⚙️<br/><sub><b>REST APIs</b></sub></td>
+<td align="center" width="25%">🔐<br/><sub><b>Auth & Authorization</b></sub></td>
+</tr>
+<tr>
+<td align="center">☁️<br/><sub><b>Cloud Applications</b></sub></td>
+<td align="center">🔄<br/><sub><b>Business Automation</b></sub></td>
+<td align="center" colspan="2">🛠️<br/><sub><b>Maintenance & Technical Support</b></sub></td>
 </tr>
 </table>
 
-**[→ Visit corefextech.com](https://corefextech.com)**
+<p align="center">
+  <a href="https://corefextech.com"><img src="https://img.shields.io/badge/→_Visit_corefextech.com-00D1FF?style=for-the-badge&labelColor=0E111A" alt="Visit Corefex"/></a>
+</p>
 
 <br/>
 
-## Certifications
+<!-- ═══════════════════════════════ CERTS ═══════════════════════════════ -->
 
-| Certification | Area |
-|:--|:--|
-| **ISO/IEC 27001** | Information Security |
-| **Cybersecurity Awareness** — CertiProf | Cybersecurity |
-| **JavaScript Essentials** — Cisco Networking Academy | Software Development |
-| **EF SET English Certificate** — B2 | Professional English |
+## 🏆 Certifications
 
-<br/>
-
-## Engineering Principles
-
-> *Build software that solves real problems.*
-
-- **Understand the business first.** The goal is not only to make applications work, but to understand the problem behind the software.
-- **Clean, maintainable architecture.** Code that is easy to read, extend and support over time.
-- **Security by design.** Authentication, authorization and access control treated as core features, not afterthoughts.
-- **User experience matters.** Useful software is software people can actually use.
+<p>
+  <img src="https://img.shields.io/badge/ISO%2FIEC_27001-Information_Security-002B7F?style=for-the-badge&labelColor=0E111A" alt="ISO/IEC 27001"/>
+  <img src="https://img.shields.io/badge/CertiProf-Cybersecurity_Awareness-00D1FF?style=for-the-badge&labelColor=0E111A" alt="Cybersecurity Awareness"/>
+  <img src="https://img.shields.io/badge/Cisco-JavaScript_Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&labelColor=0E111A" alt="JavaScript Essentials"/>
+  <img src="https://img.shields.io/badge/EF_SET-English_B2-6DB33F?style=for-the-badge&labelColor=0E111A" alt="EF SET B2"/>
+</p>
 
 <br/>
 
-## Currently Exploring
+<!-- ═══════════════════════════════ LEARNING ═══════════════════════════════ -->
 
-`Cloud Architecture` · `Cybersecurity` · `Software Architecture` · `DevOps & Deployment` · `Modern Frontend Development` · `AI-assisted Software Development`
+## 🎯 Currently Leveling Up
+
+```diff
++ Cloud Architecture
++ Cybersecurity
++ Software Architecture
++ DevOps & Deployment
++ Modern Frontend Development
++ AI-assisted Software Development
+```
 
 <br/>
 
-## GitHub Activity
+<!-- ═══════════════════════════════ PRINCIPLES ═══════════════════════════════ -->
+
+## 💡 Engineering Principles
+
+> ### *"Build software that solves real problems."*
+
+| | |
+|:--:|:--|
+| 🧭 | **Understand the business first** — not only make it work, but understand the problem behind the software. |
+| 🏗️ | **Clean, maintainable architecture** — code that is easy to read, extend and support. |
+| 🔐 | **Security by design** — authentication and access control as core features, not afterthoughts. |
+| ✨ | **User experience matters** — useful software is software people can actually use. |
+
+<br/>
+
+<!-- ═══════════════════════════════ STATS ═══════════════════════════════ -->
+
+## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JereDuarte&show_icons=true&hide_border=true&rank_icon=github&bg_color=00000000" height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JereDuarte&layout=compact&hide_border=true&bg_color=00000000" height="165" alt="Top Languages"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=JereDuarte&show_icons=true&hide_border=true&rank_icon=github&bg_color=0E111A&title_color=00D1FF&icon_color=6DB33F&text_color=c9d1d9&ring_color=00D1FF" height="165" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JereDuarte&layout=compact&hide_border=true&bg_color=0E111A&title_color=00D1FF&text_color=c9d1d9" height="165" alt="Top Languages"/>
+
+<img src="https://streak-stats.demolab.com?user=JereDuarte&hide_border=true&background=0E111A&ring=00D1FF&fire=6DB33F&currStreakLabel=00D1FF&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff&stroke=30363d" height="165" alt="GitHub Streak"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JereDuarte&bg_color=0E111A&color=c9d1d9&line=00D1FF&point=6DB33F&area=true&area_color=00D1FF&title_color=00D1FF&hide_border=true" width="100%" alt="Contribution Graph"/>
+
 </div>
 
 <br/>
 
----
+<!-- ═══════════════════════════════ FOOTER ═══════════════════════════════ -->
 
 <div align="center">
 
 **Open to collaborating with developers, recruiters and companies working on interesting technology projects.**
 
-<sub>Costa Rica 🇨🇷 · Building software, solving problems, learning every day.</sub>
+<sub>💻 Building software · 🧩 Solving problems · 📚 Learning every day · 🇨🇷 Pura Vida</sub>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D1FF,50:002B7F,100:0E111A&height=120&section=footer" width="100%"/>
