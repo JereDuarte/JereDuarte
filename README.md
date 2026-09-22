@@ -1,11 +1,10 @@
 <!-- ═══════════════════════════════ HEADER ═══════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E111A,50:002B7F,100:00D1FF&height=220&section=header&text=Jeremy%20Duarte&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20Backend%20Engineering&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Jeremy Duarte"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,35:DC143C,70:FF6B00,100:FFC300&height=220&section=header&text=Jeremy%20Duarte&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20Backend%20Engineering&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Jeremy Duarte"/>
 
 <div align="center">
 
 <a href="https://github.com/JereDuarte">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=900&color=00D1FF&center=true&vCenter=true&width=620&lines=Java+%26+Spring+Boot+Backend+Engineer;React+%2B+Tailwind+Interfaces;Secure+APIs+with+Spring+Security+%2B+JWT;Cloud+%E2%80%A2+Docker+%E2%80%A2+Google+Cloud;Founder+%40+Corefex+Technologies" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=900&color=ffae00&center=true&vCenter=true&width=620&lines=Java+%26+Spring+Boot+Backend+Engineer;React+%2B+Tailwind+Interfaces;Secure+APIs+with+Spring+Security+%2B+JWT;Cloud+%E2%80%A2+Docker+%E2%80%A2+Google+Cloud;Founder+%40+Corefex+Technologies" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
@@ -280,7 +279,8 @@ Websites, web applications, APIs and cloud-based systems tailored to specific bu
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=JereDuarte&show_icons=true&hide_border=true&rank_icon=github&bg_color=0E111A&title_color=00D1FF&icon_color=6DB33F&text_color=c9d1d9&ring_color=00D1FF" height="165" alt="GitHub Stats"/>
+
+<img src="https://streak-stats.demolab.com?user=JereDuarte&hide_border=true&background=0E111A&ring=00D1FF&fire=6DB33F&currStreakLabel=00D1FF&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff&stroke=30363d" height="165" alt="GitHub Streak"/>
 
 
 </div>
@@ -297,4 +297,4 @@ Websites, web applications, APIs and cloud-based systems tailored to specific bu
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D1FF,50:002B7F,100:0E111A&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC300,30:FF6B00,65:DC143C,100:8B0000&height=120&section=footer" width="100%"/>
