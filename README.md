@@ -281,11 +281,7 @@ Websites, web applications, APIs and cloud-based systems tailored to specific bu
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=JereDuarte&show_icons=true&hide_border=true&rank_icon=github&bg_color=0E111A&title_color=00D1FF&icon_color=6DB33F&text_color=c9d1d9&ring_color=00D1FF" height="165" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JereDuarte&layout=compact&hide_border=true&bg_color=0E111A&title_color=00D1FF&text_color=c9d1d9" height="165" alt="Top Languages"/>
 
-<img src="https://streak-stats.demolab.com?user=JereDuarte&hide_border=true&background=0E111A&ring=00D1FF&fire=6DB33F&currStreakLabel=00D1FF&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff&stroke=30363d" height="165" alt="GitHub Streak"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JereDuarte&bg_color=0E111A&color=c9d1d9&line=00D1FF&point=6DB33F&area=true&area_color=00D1FF&title_color=00D1FF&hide_border=true" width="100%" alt="Contribution Graph"/>
 
 </div>
 
