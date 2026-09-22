@@ -1,188 +1,210 @@
-# 👋 Hi, I'm Jeremy Duarte
+<div align="center">
 
-### 💻 Full Stack Developer | Java & Spring Boot | React | Cloud
+# Jeremy Duarte
 
-I'm a **Systems Engineer from Costa Rica 🇨🇷** passionate about building modern web applications, REST APIs and cloud-based solutions.
+### Full Stack Developer · Backend Engineering · Java & Spring Boot
 
-I enjoy turning ideas and business requirements into practical, scalable and user-friendly software.
+Computer Systems Engineer based in Costa Rica 🇨🇷 · Open to remote opportunities in LATAM
 
-Currently focused on **Full Stack Development, Backend Engineering and Cloud Technologies**.
+<br/>
 
----
+<a href="https://www.linkedin.com/in/jeremy-duarte-72645a338/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://corefextech.com"><img src="https://img.shields.io/badge/Corefex_Technologies-0E111A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Corefex Technologies"/></a>
+<a href="mailto:YOUR_EMAIL_HERE"><img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
-## 🚀 About Me
+</div>
 
-* 🇨🇷 Based in **Costa Rica**
-* 🎓 Bachelor's Degree in **Computer Systems Engineering**
-* 💻 Full Stack Developer with a strong focus on **Java & Spring Boot**
-* ⚛️ Building modern interfaces with **React**
-* ☁️ Experience working with **Google Cloud, Firebase and Docker**
-* 🗄️ Comfortable working with **MySQL, PostgreSQL and SQL Server**
-* 🔐 Interested in **Cybersecurity and secure application development**
-* 🛠️ Founder & Developer at **Corefex Technologies**
-* 🌎 Open to **remote opportunities in LATAM**
+<br/>
 
----
+## About
 
-## 🧰 Tech Stack
+I'm a Computer Systems Engineer focused on **full stack development and backend engineering**, with a strong foundation in **Java and Spring Boot** and modern interfaces built with **React**.
 
-### 💻 Languages
+I transform business requirements into practical, secure and user-friendly software — from relational database design and REST APIs to containerized deployments on the cloud. As **Founder & Developer at Corefex Technologies**, I build custom digital solutions for businesses end to end.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,javascript,html,css,sql" />
-</p>
+<br/>
 
-### ⚙️ Frameworks & Libraries
+## Core Expertise
 
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,react,tailwind" />
-</p>
+<table>
+<tr>
+<td width="33%" valign="top">
 
-### 🗄️ Databases
+**Backend Engineering**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,firebase" />
-</p>
+REST APIs and business logic with Java and Spring Boot. Authentication and authorization with Spring Security and JWT.
 
-### ☁️ Cloud & DevOps
+</td>
+<td width="33%" valign="top">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=gcp,firebase,docker,nginx,netlify" />
-</p>
+**Frontend Development**
 
-### 🛠️ Tools
+Responsive web applications with React and Tailwind CSS, focused on usability, performance and maintainability.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea" />
-</p>
+</td>
+<td width="33%" valign="top">
 
----
+**Cloud & Deployment**
 
-## ⭐ Featured Projects
+Applications deployed and integrated with Google Cloud and Firebase. Dockerized services and production environments.
 
-### ☕ El Cafetín — Resource Optimization Simulator
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
 
-A web-based simulator developed for **CEIPA University Foundation** to help users analyze resource allocation and decision-making using linear optimization models.
+**Database Systems**
 
-**Tech Stack**
+Relational database design and integration with MySQL, PostgreSQL and SQL Server.
 
-`React` `Tailwind CSS` `Spring Boot` `Spring Security` `JWT` `MySQL` `Docker`
+</td>
+<td width="33%" valign="top">
 
-**Highlights**
+**Secure Software**
 
-* 🔐 Authentication and role-based access control
-* 📊 Optimization models based on business constraints
-* 📄 Excel and PDF report generation
-* 🐳 Dockerized backend and database environment
-* 🌐 Production deployment and infrastructure support
+Access-control systems and security-aware development, backed by ISO/IEC 27001 training.
 
----
+</td>
+<td width="33%" valign="top">
 
-### 🌐 Corefex Technologies
+**Business Solutions**
 
-**Corefex Technologies** is my independent software development initiative focused on building custom digital solutions for businesses.
+Custom software designed around real business requirements, automation and long-term maintenance.
 
-I develop websites, web applications, APIs and cloud-based systems tailored to specific business needs.
+</td>
+</tr>
+</table>
 
-**Technologies**
+<br/>
 
-`React` `Tailwind CSS` `Spring Boot` `MySQL` `PostgreSQL` `Firebase` `Google Cloud` `Docker`
+## Tech Stack
 
-**Services & Solutions**
+| Area | Technologies |
+|:--|:--|
+| **Languages** | <img src="https://skillicons.dev/icons?i=java,javascript,html,css" height="40"/> |
+| **Frameworks** | <img src="https://skillicons.dev/icons?i=spring,react,tailwind" height="40"/> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase" height="40"/> &nbsp; ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) |
+| **Cloud & DevOps** | <img src="https://skillicons.dev/icons?i=gcp,docker,nginx,netlify" height="40"/> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea" height="40"/> |
 
-* 🌐 Custom websites and web applications
-* ⚙️ REST APIs and backend systems
-* 🔐 Authentication and access control
-* ☁️ Cloud applications
-* 🔄 Business automation
-* 🛠️ Maintenance and technical support
+<br/>
 
-🔗 **[corefextech.com](https://corefextech.com)**
+## Featured Projects
 
----
+### El Cafetín — Resource Optimization & Decision-Making Simulator
 
-## 💼 What I Can Build
+A web-based simulator developed for **CEIPA University Foundation**. The platform allows users to work with business constraints and optimization models while generating results and reports.
 
-```text
-┌─────────────────────────────────────────────────────────┐
-│                    FULL STACK                            │
-├─────────────────────────────────────────────────────────┤
-│                                                         │
-│  ⚛️ React Applications                                  │
-│  ☕ Spring Boot REST APIs                               │
-│  🔐 Authentication & Authorization                     │
-│  🗄️ Database-driven Applications                       │
-│  ☁️ Cloud-based Solutions                               │
-│  🐳 Dockerized Applications                             │
-│  📊 Business Management Systems                          │
-│  🌐 Custom Business Websites                            │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
-```
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## 📊 GitHub Stats
+- Authentication and role-based access control
+- Resource optimization models
+- Excel and PDF report generation
+- Administration and user management
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JeremyDuarte&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeremyDuarte&layout=compact&hide_border=true" height="170"/>
-</p>
+</td>
+<td width="50%" valign="top">
+
+- Relational database architecture
+- Dockerized backend and database
+- Production deployment
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📈 Contribution Activity
+### Corefex Technologies — Independent Software Development
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JeremyDuarte&hide_border=true" />
-</p>
+My independent initiative focused on custom digital solutions for businesses: websites, web applications, APIs and cloud-based systems tailored to specific requirements.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+- Custom websites
+- Web applications
+- REST APIs
+- Authentication and authorization
+
+</td>
+<td width="50%" valign="top">
+
+- Cloud applications
+- Business automation
+- Maintenance and technical support
+
+</td>
+</tr>
+</table>
+
+**[→ Visit corefextech.com](https://corefextech.com)**
+
+<br/>
+
+## Certifications
+
+| Certification | Area |
+|:--|:--|
+| **ISO/IEC 27001** | Information Security |
+| **Cybersecurity Awareness** — CertiProf | Cybersecurity |
+| **JavaScript Essentials** — Cisco Networking Academy | Software Development |
+| **EF SET English Certificate** — B2 | Professional English |
+
+<br/>
+
+## Engineering Principles
+
+> *Build software that solves real problems.*
+
+- **Understand the business first.** The goal is not only to make applications work, but to understand the problem behind the software.
+- **Clean, maintainable architecture.** Code that is easy to read, extend and support over time.
+- **Security by design.** Authentication, authorization and access control treated as core features, not afterthoughts.
+- **User experience matters.** Useful software is software people can actually use.
+
+<br/>
+
+## Currently Exploring
+
+`Cloud Architecture` · `Cybersecurity` · `Software Architecture` · `DevOps & Deployment` · `Modern Frontend Development` · `AI-assisted Software Development`
+
+<br/>
+
+## GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JereDuarte&show_icons=true&hide_border=true&rank_icon=github&bg_color=00000000" height="165" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JereDuarte&layout=compact&hide_border=true&bg_color=00000000" height="165" alt="Top Languages"/>
+</div>
+
+<br/>
 
 ---
 
-## 🏆 Certifications
+<div align="center">
 
-* 🔐 **ISO/IEC 27001 — Information Security**
-* 🛡️ **Cybersecurity Awareness — CertiProf**
-* 🟨 **JavaScript Essentials — Cisco Networking Academy**
-* 🇬🇧 **EF SET English Certificate — B2**
+**Open to collaborating with developers, recruiters and companies working on interesting technology projects.**
 
----
+<sub>Costa Rica 🇨🇷 · Building software, solving problems, learning every day.</sub>
 
-## 🎯 Currently Learning
-
-I'm continuously expanding my skills in:
-
-* ☁️ Cloud Architecture
-* 🔐 Cybersecurity
-* 🏗️ Software Architecture
-* 🚀 DevOps & Deployment
-* 📱 Modern Web Development
-* 🤖 AI-assisted Software Development
-
----
-
-## 🤝 Let's Connect
-
-I'm always interested in connecting with developers, recruiters, companies and people working on interesting technology projects.
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/jeremy-duarte-72645a338/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://corefextech.com">
-  <img src="https://img.shields.io/badge/Portfolio-Corefex-0e111a?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-  <b>💻 Building software. Solving problems. Learning every day.</b>
-</p>
-
-<p align="center">
-  🇨🇷 Costa Rica
-</p>
+</div>
