@@ -14,7 +14,7 @@
 <a href="mailto:jeremyduarte72@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <img src="https://img.shields.io/badge/Open_to-Remote_LATAM-6DB33F?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Open to Remote LATAM"/>
 
-<img src="https://komarev.com/ghpvc/?username=JereDuarte&color=00D1FF&style=flat-square&label=profile+views" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=JereDuarte&color=00D1FF&style=flat-square&label=profile+views" alt="Profile views:"/>
 
 </div>
 
