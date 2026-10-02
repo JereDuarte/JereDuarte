@@ -280,7 +280,7 @@ Websites, web applications, APIs and cloud-based systems tailored to specific bu
 <div align="center">
 
 
-<img src="https://streak-stats.demolab.com?user=JereDuarte&hide_border=true&background=0E111A&ring=00D1FF&fire=6DB33F&currStreakLabel=00D1FF&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff&stroke=30363d" height="165" alt="GitHub Streak"/>
+![GitHub Streak](https://streak-stats.demolab.com/?user=JereDuarte&hide_border=true&background=0E111A&ring=00D1FF&fire=6DB33F&currStreakLabel=00D1FF&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff&stroke=30363d&v=1)
 
 
 </div>
